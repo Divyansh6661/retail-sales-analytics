@@ -20,7 +20,7 @@ This project delivers an end-to-end sales analytics solution that processes 34,0
 
 ## 🚀 Live Demo
 
-[View Live Application](#) *(Add your Streamlit Cloud URL here)*
+[View Live Application](https://divyanshyadav6661-retail-sales-analytics.streamlit.app/)
 
 ## 📸 Screenshots
 
