@@ -1,0 +1,16 @@
+Product_1,Product_2,Frequency
+Keyboard,Mouse,668
+Keyboard,Monitor,623
+Laptop,Mouse,570
+Monitor,Mouse,398
+Keyboard,Laptop,393
+Keyboard,USB Drive,278
+Keyboard,Webcam,272
+Mouse,Webcam,266
+Mouse,USB Drive,260
+Laptop,USB Drive,230
+Monitor,Webcam,220
+Headphones,USB Drive,208
+Headphones,Keyboard,205
+Headphones,Webcam,203
+USB Drive,Webcam,199
